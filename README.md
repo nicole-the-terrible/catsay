@@ -1,6 +1,6 @@
 # catsay
 
-**catsay** is `cowsay` but cat! If you don't know what cowsay does why do you even here!
+**catsay** is `cowsay` but cat! If you don't know what cowsay does, why are you even here?
 
 ---
 
