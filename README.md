@@ -1,2 +1,16 @@
 # catsay
-cowsay but cat and also in c
+
+**catsay** is `cowsay` but cat! If you don't know what cowsay does why do you even here!
+
+---
+
+
+## Usage
+
+```
+./catsay "your message here :3c"
+```
+or use -z for sleepy cat
+```
+./catsay [-z] "your message here :3c"
+```
